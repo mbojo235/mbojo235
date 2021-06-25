@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @mbojo235
+- 👋 Hi, I’m 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-mbojo235/mbojo235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---- 👋 Hi, I’m @mbojo235
+--- 👋 Hi, I’m 
 
 - 👀 I’m interested in ...
 
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me 
-.👋 Hi, I’m @mbojo235
+.👋 Hi, I’m 
 
 - 👀 I’m interested in ...
 
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me .👋 Hi, I’m @mbojo235
+- 📫 How to reach me .👋 Hi, I’m 
 
 - 👀 I’m interested in ...
 
